@@ -1,2 +1,2 @@
 # ML2-FINAL
-Encuentro final 
+Encuentro final  . Notebook del encuentro final.
